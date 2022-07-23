@@ -1,0 +1,22 @@
+body {
+    background-color: #F0F5F9;
+}
+
+.red-background {
+    background-color: red;
+}
+
+.font {
+    font-family: 'Open Sans', sans-serif;
+}
+/* open sans, a very nice font. light 300 */
+
+.light-grey-background {
+    background-color: #C9D6DF;
+}
+
+.table-layout {
+    width: 100%;
+    text-align: left;
+    border: solid 1px #52616B;
+}
