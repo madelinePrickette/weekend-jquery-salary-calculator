@@ -20,3 +20,11 @@ body {
     text-align: left;
     border: solid 1px #52616B;
 }
+
+.black-text {
+    color: #1E2022
+}
+
+.radius {
+    border-radius: 50px;
+}
