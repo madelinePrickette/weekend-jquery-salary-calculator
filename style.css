@@ -15,10 +15,19 @@ body {
     background-color: #C9D6DF;
 }
 
-.table-layout {
-    width: 100%;
+table, th, tr, td {
+    /* width: 100%; */
     text-align: left;
     border: solid 1px #52616B;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%
+}
+
+td {
+    background-color: white;
 }
 
 .black-text {
